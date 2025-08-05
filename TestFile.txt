@@ -10,3 +10,8 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/yourusername/my-first-repo.git
 git push -u origin main
+
+🔄 Git Pull and Push
+Command	Purpose
+git pull origin main	Pull latest changes from GitHub
+git push origin main	Push local commits to GitHub
